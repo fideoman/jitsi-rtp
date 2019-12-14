@@ -2,3 +2,5 @@
 .idea
 target
 .kotlintest
+/bin/
+/cache/
